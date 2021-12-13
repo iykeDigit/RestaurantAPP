@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\MyProjects\RestaurantAPP\RestaurantAPI\RestaurantApp.Models\bin\Debug\net5.0\RestaurantApp.Models.deps.json
+C:\Users\hp\Desktop\MyProjects\RestaurantAPP\RestaurantAPI\RestaurantApp.Models\bin\Debug\net5.0\RestaurantApp.Models.dll
+C:\Users\hp\Desktop\MyProjects\RestaurantAPP\RestaurantAPI\RestaurantApp.Models\bin\Debug\net5.0\ref\RestaurantApp.Models.dll
+C:\Users\hp\Desktop\MyProjects\RestaurantAPP\RestaurantAPI\RestaurantApp.Models\bin\Debug\net5.0\RestaurantApp.Models.pdb
+C:\Users\hp\Desktop\MyProjects\RestaurantAPP\RestaurantAPI\RestaurantApp.Models\obj\Debug\net5.0\RestaurantApp.Models.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\MyProjects\RestaurantAPP\RestaurantAPI\RestaurantApp.Models\obj\Debug\net5.0\RestaurantApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\MyProjects\RestaurantAPP\RestaurantAPI\RestaurantApp.Models\obj\Debug\net5.0\RestaurantApp.Models.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\MyProjects\RestaurantAPP\RestaurantAPI\RestaurantApp.Models\obj\Debug\net5.0\RestaurantApp.Models.AssemblyInfo.cs
+C:\Users\hp\Desktop\MyProjects\RestaurantAPP\RestaurantAPI\RestaurantApp.Models\obj\Debug\net5.0\RestaurantApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\MyProjects\RestaurantAPP\RestaurantAPI\RestaurantApp.Models\obj\Debug\net5.0\RestaurantApp.Models.dll
+C:\Users\hp\Desktop\MyProjects\RestaurantAPP\RestaurantAPI\RestaurantApp.Models\obj\Debug\net5.0\ref\RestaurantApp.Models.dll
+C:\Users\hp\Desktop\MyProjects\RestaurantAPP\RestaurantAPI\RestaurantApp.Models\obj\Debug\net5.0\RestaurantApp.Models.pdb

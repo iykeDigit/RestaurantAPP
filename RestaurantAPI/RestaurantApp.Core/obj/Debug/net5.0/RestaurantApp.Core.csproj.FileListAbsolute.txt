@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\MyProjects\RestaurantAPP\RestaurantAPI\RestaurantApp.Core\bin\Debug\net5.0\RestaurantApp.Core.deps.json
+C:\Users\hp\Desktop\MyProjects\RestaurantAPP\RestaurantAPI\RestaurantApp.Core\bin\Debug\net5.0\RestaurantApp.Core.dll
+C:\Users\hp\Desktop\MyProjects\RestaurantAPP\RestaurantAPI\RestaurantApp.Core\bin\Debug\net5.0\ref\RestaurantApp.Core.dll
+C:\Users\hp\Desktop\MyProjects\RestaurantAPP\RestaurantAPI\RestaurantApp.Core\bin\Debug\net5.0\RestaurantApp.Core.pdb
+C:\Users\hp\Desktop\MyProjects\RestaurantAPP\RestaurantAPI\RestaurantApp.Core\obj\Debug\net5.0\RestaurantApp.Core.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\MyProjects\RestaurantAPP\RestaurantAPI\RestaurantApp.Core\obj\Debug\net5.0\RestaurantApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\MyProjects\RestaurantAPP\RestaurantAPI\RestaurantApp.Core\obj\Debug\net5.0\RestaurantApp.Core.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\MyProjects\RestaurantAPP\RestaurantAPI\RestaurantApp.Core\obj\Debug\net5.0\RestaurantApp.Core.AssemblyInfo.cs
+C:\Users\hp\Desktop\MyProjects\RestaurantAPP\RestaurantAPI\RestaurantApp.Core\obj\Debug\net5.0\RestaurantApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\MyProjects\RestaurantAPP\RestaurantAPI\RestaurantApp.Core\obj\Debug\net5.0\RestaurantApp.Core.dll
+C:\Users\hp\Desktop\MyProjects\RestaurantAPP\RestaurantAPI\RestaurantApp.Core\obj\Debug\net5.0\ref\RestaurantApp.Core.dll
+C:\Users\hp\Desktop\MyProjects\RestaurantAPP\RestaurantAPI\RestaurantApp.Core\obj\Debug\net5.0\RestaurantApp.Core.pdb

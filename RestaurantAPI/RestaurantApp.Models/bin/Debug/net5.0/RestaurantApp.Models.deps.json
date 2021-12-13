@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RestaurantApp.Models/1.0.0": {
+        "runtime": {
+          "RestaurantApp.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RestaurantApp.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
